@@ -2,7 +2,7 @@ Hi, I'm Magno Frederico Kray Costa
 
 <a href="https://uspdigital.usp.br/jupiterweb/listarGradeCurricular?codcg=45&codcur=45070&codhab=804&tipo=N">Bachelor of Applied and Computer Mathematics</a>, developer and aspiring polyglot.
 
-I’m interested in solving real-world-problems creating value by applying mathematics, statistics, algorithms and the tech available (programming languages, frameworks, distributed systems, containers, etc)
+I’m interested in solving real-world-problems, creating value by applying mathematics, statistics, algorithms and the tech available (programming languages, frameworks, distributed systems, containers, etc)
 
 <h3>Frontend</h3>
 <div style="display: inline_block">
